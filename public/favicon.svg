@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="30%" stop-color="#F7E7C4" />
+      <stop offset="70%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#8C6D4F" />
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#0A0806" stroke="url(#gold)" stroke-width="2.5" />
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#D4AF37" stroke-width="0.75" stroke-opacity="0.4" />
+  <text x="32" y="39" font-family="'Montserrat', 'Bebas Neue', sans-serif" font-size="21" font-weight="800" letter-spacing="1" fill="url(#gold)" text-anchor="middle">NKR</text>
+</svg>
